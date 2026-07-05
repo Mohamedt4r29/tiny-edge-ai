@@ -1,0 +1,9 @@
+venv/
+data/
+runs/
+__pycache__/
+*.pyc
+.env
+venvScriptsactivate
+threshold
+
