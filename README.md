@@ -14,8 +14,7 @@ A complete Edge AI inference pipeline for farm animal detection. The pipeline co
 
 ## Pipeline
 
-<img width="2069" height="3835" alt="edge" src="https://github.com/user-attachments/assets/6636d15c-cb70-4f18-9dbc-7b88b7f52e69" />
-
+<img width="600" alt="edge" src="https://github.com/user-attachments/assets/6636d15c-cb70-4f18-9dbc-7b88b7f52e69" />
 
 ## Results
 
